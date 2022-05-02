@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chang Deng</title>
+    <link>https://duntrain.github.io/</link>
+    <description>Recent content on Chang Deng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://duntrain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Notes</title>
+      <link>https://duntrain.github.io/notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://duntrain.github.io/notes/</guid>
+      <description> Useful Link  Booth Econometrics and Statistics Colloquium Booth Operation Management Colloquium UChicago Statistics Colloquium PhD Grind by Philip Guo  </description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://duntrain.github.io/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://duntrain.github.io/publications/</guid>
+      <description>Publications   A Simple Approach to Balance Task Loss in Multi-Task Learning
+Sicong Liang, Chang Deng, Yu Zhang
+IEEE Big Data 2021
+  Deep Multi-task Augmented Feature Learning via Hierarchical Graph Neural Network
+Pengxin Guo, Chang Deng, Linjie Xu, Xiaonan Huang, Yu Zhang
+ECML PKDD 2021
+   Preprint   Improved gradient-based DAG learning via order search
+Chang Deng, Kevin Bello, Bryon Aragam, Pradeep Ravikumar</description>
+    </item>
+    
+    <item>
+      <title>Reading</title>
+      <link>https://duntrain.github.io/reading/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://duntrain.github.io/reading/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
