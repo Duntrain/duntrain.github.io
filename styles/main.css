@@ -1,7 +1,7 @@
 body {
   min-height: 100vh;
   max-width: 690px;
-  padding: 0px;
+  padding: 0 0 80px;
   margin: auto;
   line-height: 1.4;
   font-family: "Sentient", Georgia, serif;
