@@ -83,14 +83,14 @@ p.name {
   font-size: 32px;
   text-align: center;
   font-weight: normal;
-  margin: 16px 0 12px;
+  margin: 16px 0 40px;
 }
 
 span.paper {
   font-weight: 400;
 }
 
-.publication-list .paper-link {
+.publication-list a {
   color: inherit;
 }
 
